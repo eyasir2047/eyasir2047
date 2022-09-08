@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyasir2047
 - 👀 I’m interested in .cp..
-- 🌱 I’m currently learning  c,scratch and discrete mathematics...
+- 🌱 I’m currently learning  c, c++, data structure & algorithm...
 - 💞️ I’m looking to collaborate on ..projects.
 - 📫 How to reach me ..mail me at this address eyasir2047@gmail.com
 
