@@ -1,3 +1,5 @@
+https://github.com/eyasir2047/eyasir2047/blob/main/eyasir.jpeg
+
 - 👋 Hi, I’m @eyasir2047
 - ✳ pursuing my Bachelors in Computer Science at University of Dhaka
 - 👀 I’m interested in .cp..
