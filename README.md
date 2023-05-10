@@ -6,10 +6,11 @@
 - 📫 How to reach me ..mail me at this address eyasir2047@gmail.com
 
 ## Skills and Experience
-. C++ 
+. 🟧C++ 
+. 🟩Java
       
 
-Skills: C++ / Java 
+
 
 <!---
 eyasir2047/eyasir2047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
