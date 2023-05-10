@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @eyasir2047
+- pursuing my Bachelors in Computer Science & Engineering at University of Dhaka
 - 👀 I’m interested in .cp..
 - 🌱 I’m currently learning  c, c++, data structure & algorithm...
 - 💞️ I’m looking to collaborate on ..projects.
