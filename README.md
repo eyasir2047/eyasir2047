@@ -6,8 +6,8 @@
 - 📫 How to reach me ..mail me at this address eyasir2047@gmail.com
 
 ## Skills and Experience
-. 🟧C++ 
-. 🟩Java
+* 🟧C++ 
+* 🟩Java
       
 
 
