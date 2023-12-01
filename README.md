@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/eyasir2047/eyasir2047/blob/main/eyasir.jpeg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaniksahaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaniksahaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyasir2047&label=Profile%20views&color=0e75b6&style=flat" alt="eyasir2047" /> </p>
 
 - 👋 Hi, I’m @eyasir2047
 - ✳ pursuing my Bachelor in Computer Science at the University of Dhaka
