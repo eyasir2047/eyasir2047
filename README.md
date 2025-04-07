@@ -23,45 +23,72 @@ I'm Abrar Eyasir, a final-year Computer Science and Engineering student at the U
 </p>
 
 ### Technologies & Tools
-<p align="left">
+<h3 align="left">Technical Skills</h3>
 
+<table align="center">
   <!-- ML & Data Science -->
-  <strong>🧠 ML & Data Science</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> Pandas &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/> NumPy &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="30" height="30"/> Scikit-Learn &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"/> Jupyter &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30" height="30"/> PyTorch &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/> TensorFlow
-
-  <br><br>
-
+  <tr>
+    <td colspan="2"><strong>Machine Learning & Data Science</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="24" height="24" alt="Pandas"></td>
+    <td>Pandas</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="24" height="24" alt="NumPy"></td>
+    <td>NumPy</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="24" height="24" alt="Scikit-Learn"></td>
+    <td>Scikit-Learn</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"></td>
+    <td>Jupyter</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="24" height="24" alt="PyTorch"></td>
+    <td>PyTorch</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="24" height="24" alt="TensorFlow"></td>
+    <td>TensorFlow</td>
+  </tr>
+  
   <!-- Web Development -->
-  <strong>🌐 Web Development</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="30" height="30"/> FastAPI
-
-  <br><br>
-
+  <tr>
+    <td colspan="2"><strong>Web Development</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="24" height="24" alt="FastAPI"></td>
+    <td colspan="3">FastAPI</td>
+  </tr>
+  
   <!-- Database -->
-  <strong>🗄️ Database</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> PostgreSQL &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="30" height="30"/> SQL
-
-  <br><br>
-
+  <tr>
+    <td colspan="2"><strong>Databases</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="PostgreSQL"></td>
+    <td>PostgreSQL</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="SQL"></td>
+    <td>MySQL</td>
+  </tr>
+  
   <!-- DevOps -->
-  <strong>⚙️ DevOps</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> Git &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" height="30"/> GitHub
-
-  <br><br>
-
+  <tr>
+    <td colspan="2"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" height="24" alt="Git"></td>
+    <td>Git</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" height="24" alt="GitHub"></td>
+    <td>GitHub</td>
+  </tr>
+  
   <!-- Other -->
-  <strong>📚 Other</strong><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="30" height="30"/> LaTeX
-
-</p>
-
+  <tr>
+    <td colspan="2"><strong>Other</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="24" height="24" alt="LaTeX"></td>
+    <td colspan="3">LaTeX</td>
+  </tr>
+</table>
 ### Machine Learning & AI
 - Supervised Learning
 - Basic Deep Learning
