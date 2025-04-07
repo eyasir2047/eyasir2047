@@ -24,36 +24,42 @@ I'm Abrar Eyasir, a final-year Computer Science and Engineering student at the U
 
 ### Technologies & Tools
 <p align="left">
+
   <!-- ML & Data Science -->
-  <strong>ML & Data Science:</strong><br>
-  Pandas <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>
-  &nbsp; NumPy <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/>
-  &nbsp; Scikit-Learn <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="30" height="30"/>
-  &nbsp; Jupyter Notebook <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"/>
-  &nbsp; PyTorch <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30" height="30"/>
-  &nbsp; TensorFlow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/>
+  <strong>🧠 ML & Data Science</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> Pandas &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/> NumPy &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="30" height="30"/> Scikit-Learn &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"/> Jupyter &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30" height="30"/> PyTorch &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/> TensorFlow
+
   <br><br>
 
   <!-- Web Development -->
-  <strong>Web Development:</strong><br>
-  FastAPI <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="30" height="30"/>
+  <strong>🌐 Web Development</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="30" height="30"/> FastAPI
+
   <br><br>
 
   <!-- Database -->
-  <strong>Database:</strong><br>
-  PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
-  &nbsp; SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="30" height="30"/>
+  <strong>🗄️ Database</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> PostgreSQL &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="30" height="30"/> SQL
+
   <br><br>
 
   <!-- DevOps -->
-  <strong>DevOps:</strong><br>
-  Git <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-  &nbsp; GitHub <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+  <strong>⚙️ DevOps</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> Git &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" height="30"/> GitHub
+
   <br><br>
 
   <!-- Other -->
-  <strong>Other:</strong><br>
-  LaTeX <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="30" height="30"/>
+  <strong>📚 Other</strong><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="30" height="30"/> LaTeX
+
 </p>
 
 ### Machine Learning & AI
