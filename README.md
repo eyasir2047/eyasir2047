@@ -6,7 +6,7 @@
 </p>
 
 ## 👨‍💻 About Me
-I am Abrar Eyasir, a final-year Computer Science and Engineering student at the University of Dhaka. I have a strong research interest in Computer Vision and Deep Learning. Passionate about innovation and technology, I am also keen on entrepreneurship and aspire to build impactful startups.
+I’m Abrar Eyasir, a final-year Computer Science and Engineering student at the University of Dhaka with a strong research interest in Large Language Model & Computer Vision. Driven by a passion for innovation and technology, I’m also deeply interested in entrepreneurship and aspire to build impactful startups that solve real-world problems.
 
 ## 🎓 Education
 - **BSc in Computer Science & Engineering **  
