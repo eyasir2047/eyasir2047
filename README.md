@@ -87,6 +87,7 @@ I'm Abrar Eyasir, a final-year Computer Science and Engineering student at the U
     <td colspan="3">LaTeX</td>
   </tr>
 </table>
+
 ### Machine Learning & AI
 - Supervised Learning
 - Basic Deep Learning
