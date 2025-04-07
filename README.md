@@ -24,7 +24,7 @@ I’m Abrar Eyasir, a final-year Computer Science and Engineering student at the
 </p>
 
 ### Technologies & Tools
-- **ML & Data Science:** Pandas, NumPy, Scikit-Learn, Jupyter Notebook, PyTorch (Basic)
+- **ML & Data Science:** Pandas, NumPy, Scikit-Learn, Jupyter Notebook, PyTorch 
 - **Web Development:** FastAPI
 - **Database:** PostgreSQL, SQL
 - **DevOps:** Git, GitHub
