@@ -47,18 +47,28 @@ I'm Abrar Eyasir, a final-year Computer Science and Engineering student at the U
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyasir2047&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/eyasir2047">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyasir2047&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyasir2047&theme=dark" alt="GitHub Streak" />
+  <a href="https://github.com/eyasir2047">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eyasir2047&theme=dark"/>
+  </a>
 </div>
 
 ### Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eyasir2047&theme=react-dark)
+<a href="https://github.com/eyasir2047">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyasir2047&theme=radical" />
+</a>
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir2047&layout=compact&theme=radical)
+<div align="center">
+  <a href="https://github.com/eyasir2047">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir2047&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
 ### GitHub Trophies
 <p align="center">
