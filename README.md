@@ -23,7 +23,6 @@ I'm Abrar Eyasir, a final-year Computer Science and Engineering student at the U
 </p>
 
 ### Technologies & Tools
-<h3 align="left">Technical Skills</h3>
 
 <table align="center">
   <!-- ML & Data Science -->
