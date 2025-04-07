@@ -37,8 +37,6 @@ I'm Abrar Eyasir, a final-year Computer Science and Engineering student at the U
     <td>NumPy</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="24" height="24" alt="Scikit-Learn"></td>
-    <td>Scikit-Learn</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"></td>
     <td>Jupyter</td>
   </tr>
