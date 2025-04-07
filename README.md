@@ -9,7 +9,7 @@
 I’m Abrar Eyasir, a final-year Computer Science and Engineering student at the University of Dhaka with a strong research interest in Large Language Model & Computer Vision. Driven by a passion for innovation and technology, I’m also deeply interested in entrepreneurship and aspire to build impactful startups that solve real-world problems.
 
 ## 🎓 Education
-- **BSc in Computer Science & Engineering **  
+- **BSc in Computer Science & Engineering**  
   University of Dhaka  
   *2022 - Present*
 
