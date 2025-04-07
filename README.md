@@ -1,4 +1,4 @@
-# Eyasir Ahamed
+# Abrar Eyasir
 > Computer Science Undergraduate | Competitive Programmer | Software Developer
 
 <p align="left">
