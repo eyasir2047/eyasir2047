@@ -6,10 +6,10 @@
 </p>
 
 ## 👨‍💻 About Me
-I'm a Computer Science undergraduate at the University of Dhaka passionate about Deep Learning and software development. I am currently focusing on strengthening my foundation in Machine Learning while seeking collaborative opportunities to apply my skills to real-world projects.
+I am Abrar Eyasir, a final-year Computer Science and Engineering student at the University of Dhaka. I have a strong research interest in Computer Vision and Deep Learning. Passionate about innovation and technology, I am also keen on entrepreneurship and aspire to build impactful startups.
 
 ## 🎓 Education
-- **BSc in Computer Science**  
+- **BSc in Computer Science & Engineering **  
   University of Dhaka  
   *2022 - Present*
 
@@ -33,7 +33,7 @@ I'm a Computer Science undergraduate at the University of Dhaka passionate about
 ### Machine Learning & AI
 - Supervised Learning
 - Basic Deep Learning
-- Computer Vision (Basic)
+- Computer Vision 
 - Model Training
 - Data Preprocessing
 
@@ -47,7 +47,7 @@ I'm a Computer Science undergraduate at the University of Dhaka passionate about
 
 ## 📫 Connect With Me
 - **Email:** [eyasir2047@gmail.com](mailto:eyasir2047@gmail.com)
-- **GitHub:** [@eyasir2047](https://github.com/eyasir2047)
+- **Linkedin :** https://www.linkedin.com/in/abrar-eyasir-4423b7216/
 <!-- Add your other social profiles/links here -->
 
 ## 📊 GitHub Stats
