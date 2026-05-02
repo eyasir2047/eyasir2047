@@ -1,5 +1,5 @@
 # Abrar Eyasir
-> Computer Science Undergraduate | Machine Learning Engineer | Software Developer
+> Computer Science Undergraduate | Machine Learning Researcher
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eyasir2047&label=Profile%20views&color=0e75b6&style=flat" alt="eyasir2047" />
