@@ -157,8 +157,6 @@ End-to-end AI system for smart city waste management:
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyasir2047&theme=tokyonight&hide_border=true" />
 </div>
