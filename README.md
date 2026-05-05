@@ -136,7 +136,7 @@ End-to-end AI system for smart city waste management:
 
 ### 💻 Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-MPI-OpenMP-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
