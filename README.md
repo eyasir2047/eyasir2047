@@ -109,9 +109,6 @@ End-to-end AI system for smart city waste management:
 
 </td>
 
-</tr>
-<tr>
-
 <td>
 
 ### 🎯 [Flash — Tutorial Recommendation Engine](https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn)
@@ -124,7 +121,9 @@ End-to-end AI system for smart city waste management:
 [![GitHub](https://img.shields.io/badge/GitHub-Code-24292e?style=flat-square&logo=github)](https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn)
 
 </td>
+
 </tr>
+
 </table>
 
 ---
