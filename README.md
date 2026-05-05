@@ -1,144 +1,233 @@
-# Abrar Eyasir
-> Computer Science Undergraduate | Machine Learning Researcher
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eyasir2047&label=Profile%20views&color=0e75b6&style=flat" alt="eyasir2047" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abrar%20Eyasir&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Researcher%20%7C%20LLMs%20%7C%20NLP%20%7C%20Bengali%20Language%20AI&descAlignY=58&descSize=16&descColor=a78bfa" />
 
-## 👨‍💻 About Me
-I'm Abrar Eyasir, a final-year Computer Science and Engineering student at the University of Dhaka with a strong research interest in Large Language Model & Computer Vision. Driven by a passion for innovation and technology, I'm also deeply interested in entrepreneurship and aspire to build impactful startups that solve real-world problems.
+</div>
 
-## 🎓 Education
-- **BSc in Computer Science & Engineering**  
-  University of Dhaka  
-  *2022 - Present*
+<div align="center">
 
-## 💻 Technical Skills
-### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</p>
+[![Website](https://img.shields.io/badge/Portfolio-eyasir2047.github.io-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://eyasir2047.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=bf_x1P8AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrar-eyasir-4423b7216/)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-eyasir2047-FFD21E?style=for-the-badge)](https://huggingface.co/eyasir2047)
 
-### Technologies & Tools
+</div>
 
-<table align="center">
-  <!-- ML & Data Science -->
-  <tr>
-    <td colspan="2"><strong>Machine Learning & Data Science</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="24" height="24" alt="Pandas"></td>
-    <td>Pandas</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="24" height="24" alt="NumPy"></td>
-    <td>NumPy</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="24" height="24" alt="Jupyter"></td>
-    <td>Jupyter</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="24" height="24" alt="PyTorch"></td>
-    <td>PyTorch</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="24" height="24" alt="TensorFlow"></td>
-    <td>TensorFlow</td>
-  </tr>
-  
-  <!-- Web Development -->
-  <tr>
-    <td colspan="2"><strong>Web Development</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="24" height="24" alt="FastAPI"></td>
-    <td colspan="3">FastAPI</td>
-  </tr>
-  
-  <!-- Database -->
-  <tr>
-    <td colspan="2"><strong>Databases</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="PostgreSQL"></td>
-    <td>PostgreSQL</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="SQL"></td>
-    <td>MySQL</td>
-  </tr>
-  
-  <!-- DevOps -->
-  <tr>
-    <td colspan="2"><strong>DevOps & Tools</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" height="24" alt="Git"></td>
-    <td>Git</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" height="24" alt="GitHub"></td>
-    <td>GitHub</td>
-  </tr>
-  
-  <!-- Other -->
-  <tr>
-    <td colspan="2"><strong>Other</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="24" height="24" alt="LaTeX"></td>
-    <td colspan="3">LaTeX</td>
-  </tr>
+---
+
+## 🧑‍🔬 About Me
+
+I'm a final-year **CSE student at the University of Dhaka** specializing in **Large Language Models**, **NLP**, and **low-resource language AI**. My research focuses on building resources and benchmarks for **Bengali/Bangla** — one of the world's most under-resourced high-speaker languages.
+
+- 🔬 **Research Assistant** @ University of Dhaka under [Dr. Muhammad Ibrahim](https://du.ac.bd/)
+- 📄 **arXiv Author** — NCTB-QA: 87,805 Bangla QA pairs from 50 national textbooks
+- 🌲 **Section Leader** @ [Code in Place 2026](https://codeinplace.stanford.edu/), Stanford University
+- 🌏 **NUS Young Fellow 2026** — National University of Singapore
+- 🏆 **Champion** @ Solvio AI Hackathon 2025 (650+ teams) with ZeroBin
+
+> *"Building AI that understands the world's underrepresented languages."*
+
+---
+
+## 📄 Publications
+
+<table>
+<tr>
+<td width="80" align="center">
+
+**arXiv**<br>2026
+
+</td>
+<td>
+
+**[NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance](https://arxiv.org/abs/2603.05462)**
+
+Abrar Eyasir, Tahsin Ahmed, Muhammad Ibrahim
+
+> 87,805 QA pairs · 50 NCTB textbooks · Benchmarks for BERT, RoBERTa, ELECTRA, Qwen-2.5-7B · Chain-of-Thought fine-tuning · BLEU / F1 / EM evaluation
+
+[![Paper](https://img.shields.io/badge/arXiv-2603.05462-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.05462)
+[![PDF](https://img.shields.io/badge/PDF-Download-orange?style=flat-square)](https://arxiv.org/pdf/2603.05462)
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+
+**arXiv**<br>2025
+
+</td>
+<td>
+
+**AgriPriceBD** *(forthcoming)*
+
+> Agricultural price forecasting for Bangladesh using time-series ML · LightGBM · Geospatial features
+
+</td>
+</tr>
 </table>
 
-### Machine Learning & AI
-- Supervised Learning
-- Basic Deep Learning
-- Computer Vision 
-- Model Training
-- Data Preprocessing
+---
 
-### Core CS
-- Data Structures
-- Algorithms
-- Problem Solving
+## 🔭 Research Interests
 
-## 🔍 Current Focus
-- Building practical projects to apply theoretical knowledge
+```
+Large Language Models (LLMs)          →  Fine-tuning, PEFT/LoRA, Chain-of-Thought, RLHF/RLAIF
+Low-Resource NLP                       →  Bengali/Bangla QA, dataset construction, benchmarking
+LLM Evaluation & Alignment            →  Empirical safety, robustness, factuality
+Multimodal AI                          →  Vision-Language Models, Gemini Vision, cross-modal reasoning
+```
+
+---
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td>
+
+### 🗑️ [ZeroBin — AI Waste Management Platform](https://github.com/eyasir2047/SOLVIO-Hackathon)
+*🏆 Champion · Solvio AI Hackathon 2025 (650+ teams)*
+
+End-to-end AI system for smart city waste management:
+- **YOLOv8 + MobileNetV2** for real-time waste classification
+- **LSTM** bin fill-level forecasting · **LightGBM** e-waste pricing
+- **BanglaBERT** sentiment analysis (94.5% accuracy)
+- **Hyperledger Fabric** EcoCredits blockchain
+- FastAPI · Docker · Vercel deployment
+
+[![Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=flat-square)](https://frontend-solvio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-24292e?style=flat-square&logo=github)](https://github.com/eyasir2047/SOLVIO-Hackathon)
+
+</td>
+<td>
+
+### 🧠 [NCTB-QA Dataset](https://arxiv.org/abs/2603.05462)
+*Bangla Educational QA · arXiv 2026*
+
+Large-scale Bengali NLP resource:
+- **87,805 QA pairs** from 50 NCTB textbooks
+- Automated pipeline: extraction → segmentation → QA generation
+- Benchmarks: **BERT, RoBERTa, ELECTRA, Qwen-2.5-7B**
+- PEFT LoRA fine-tuning · Chain-of-Thought prompting
+- Metrics: BLEU · F1 · Exact Match
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat-square)](https://arxiv.org/abs/2603.05462)
+[![HuggingFace](https://img.shields.io/badge/🤗-Dataset-FFD21E?style=flat-square)](https://huggingface.co/eyasir2047)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### ⚡ [Distributed ML System with MPI & OpenMP](https://github.com/eyasir2047/HPC-House-Price-Regression)
+*High-Performance Computing · C · MPI · OpenMP*
+
+- Synchronized gradient updates across **8 parallel processes**
+- OpenMP parallelized matrix multiplication
+- FastAPI backend + Next.js frontend for real-time inference
+- Low-latency distributed prediction pipeline
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-24292e?style=flat-square&logo=github)](https://github.com/eyasir2047/HPC-House-Price-Regression)
+
+</td>
+<td>
+
+### 🎯 [Flash — Tutorial Recommendation Engine](https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn)
+*Content-Based Filtering · Full-Stack*
+
+- TF-IDF + Cosine Similarity recommendation system
+- Personalized learning path generation
+- Full-stack web application
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-24292e?style=flat-square&logo=github)](https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Stack
+
+### 🤖 LLMs & NLP
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=flat-square&logo=huggingface)
+![BERT](https://img.shields.io/badge/BERT-RoBERTa-4285F4?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen--2.5-7B-7c3aed?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA-QLoRA-PEFT-ec4899?style=flat-square)
+![BanglaBERT](https://img.shields.io/badge/BanglaBERT-Bengali_NLP-22c55e?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-R1-Distill-orange?style=flat-square)
+
+### 🧪 ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-LightGBM-189B5E?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer_Vision-00FFFF?style=flat-square)
+
+### 🚀 MLOps & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HuggingFace Hub](https://img.shields.io/badge/HF_Hub-Model_Registry-FFD21E?style=flat-square)
+![Unsloth](https://img.shields.io/badge/Unsloth-Fast_Finetuning-7c3aed?style=flat-square)
+
+### 💻 Languages & HPC
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-MPI-OpenMP-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+---
+
+## 🏆 Selected Honors
+
+| Year | Honor |
+|------|-------|
+| 2026 | 🌲 **Section Leader** — Code in Place 2026, Stanford University |
+| 2026 | 🌏 **NUS Young Fellowship Programme** — National University of Singapore |
+| 2025 | 🏆 **Champion** — Solvio AI Hackathon (650+ teams) |
+| 2025 | 🚀 **Top 20** — VisionX Project Showcasing, University of Dhaka |
+| 2025 | 🏅 **Top 10** — S.N. Bose National IT Hackathon |
+| 2025 | 💡 **7th Place** — InnovativeX Hackathon, BUBT |
+| 2025 | ☀️ **Summer School** — Energy Data Analytics, IIT Bombay |
+
+---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/eyasir2047">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyasir2047&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyasir2047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir2047&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/eyasir2047">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eyasir2047&theme=dark"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyasir2047&theme=tokyonight&hide_border=true" />
 </div>
 
-### Contribution Graph
-<a href="https://github.com/eyasir2047">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyasir2047&theme=radical" />
-</a>
-
-### Most Used Languages
 <div align="center">
-  <a href="https://github.com/eyasir2047">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir2047&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyasir2047&theme=tokyonight" />
 </div>
-
-### GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eyasir2047&theme=darkhub&row=1&column=6" alt="trophy" />
-  </a>
-</p>
-
-## 📫 Connect With Me
-- **Email:** [eyasir2047@gmail.com](mailto:eyasir2047@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/abrar-eyasir-4423b7216/](https://www.linkedin.com/in/abrar-eyasir-4423b7216/)
-- **GitHub:** [https://github.com/eyasir2047](https://github.com/eyasir2047)
 
 ---
-⭐️ From [eyasir2047](https://github.com/eyasir2047)
+
+## 📫 Get in Touch
+
+<div align="center">
+
+I'm actively seeking **PhD / Research positions** in **LLMs, NLP, and AI Safety**. Open to collaborations on low-resource language AI and Bengali NLP.
+
+[![Email](https://img.shields.io/badge/Email-eyasir2047@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyasir2047@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-eyasir2047.github.io-7c3aed?style=for-the-badge&logo=github-pages&logoColor=white)](https://eyasir2047.github.io/)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=bf_x1P8AAAAJ&hl=en)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+*"Low-resource doesn't mean low-priority."*
+
+</div>
