@@ -122,14 +122,11 @@ End-to-end AI system for smart city waste management:
 ![Qwen](https://img.shields.io/badge/Qwen--2.5-7B-7c3aed?style=flat-square)
 ![LoRA](https://img.shields.io/badge/LoRA-QLoRA-PEFT-ec4899?style=flat-square)
 ![BanglaBERT](https://img.shields.io/badge/BanglaBERT-Bengali_NLP-22c55e?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-R1-Distill-orange?style=flat-square)
 
 ### 🧪 ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-LightGBM-189B5E?style=flat-square)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer_Vision-00FFFF?style=flat-square)
 
 ### 🚀 MLOps & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -137,11 +134,10 @@ End-to-end AI system for smart city waste management:
 ![HuggingFace Hub](https://img.shields.io/badge/HF_Hub-Model_Registry-FFD21E?style=flat-square)
 ![Unsloth](https://img.shields.io/badge/Unsloth-Fast_Finetuning-7c3aed?style=flat-square)
 
-### 💻 Languages & HPC
+### 💻 Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-MPI-OpenMP-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
