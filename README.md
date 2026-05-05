@@ -108,20 +108,6 @@ End-to-end AI system for smart city waste management:
 [![GitHub](https://img.shields.io/badge/GitHub-Code-24292e?style=flat-square&logo=github)](https://github.com/eyasir2047/SOLVIO-Hackathon)
 
 </td>
-
-<td>
-
-### 🎯 [Flash — Tutorial Recommendation Engine](https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn)
-*Content-Based Filtering · Full-Stack*
-
-- TF-IDF + Cosine Similarity recommendation system
-- Personalized learning path generation
-- Full-stack web application
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-24292e?style=flat-square&logo=github)](https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn)
-
-</td>
-
 </tr>
 
 </table>
