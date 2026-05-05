@@ -141,20 +141,6 @@ End-to-end AI system for smart city waste management:
 
 ---
 
-## 🏆 Selected Honors
-
-| Year | Honor |
-|------|-------|
-| 2026 | 🌲 **Section Leader** — Code in Place 2026, Stanford University |
-| 2026 | 🌏 **Incoming NUS Young Fellowship Programme** — National University of Singapore |
-| 2025 | 🏆 **Champion** — Solvio AI Hackathon (650+ teams) |
-| 2025 | 🚀 **Top 20** — VisionX Project Showcasing, University of Dhaka |
-| 2025 | 🏅 **Top 10** — S.N. Bose National IT Hackathon |
-| 2025 | 💡 **7th Place** — InnovativeX Hackathon, BUBT |
-| 2025 | ☀️ **Summer School** — Energy Data Analytics, IIT Bombay |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
