@@ -17,15 +17,15 @@
 
 ## 🧑‍🔬 About Me
 
-I'm a final-year **CSE student at the University of Dhaka** specializing in **Large Language Models**, **NLP**, and **low-resource language AI**. My research focuses on building resources and benchmarks for **Bengali/Bangla** — one of the world's most under-resourced high-speaker languages.
+I'm a final-year **CSE student at the University of Dhaka** specializing in **Large Language Models** and **Machine Learning**. My research interests are at the intersection of AI safety, Large Language Models (LLMs) and Multimodal Systems.
 
-- 🔬 **Research Assistant** @ University of Dhaka under [Dr. Muhammad Ibrahim](https://du.ac.bd/)
+- 🔬 **Research Assistant** @ University of Dhaka under Dr. Muhammad Ibrahim
 - 📄 **arXiv Author** — NCTB-QA: 87,805 Bangla QA pairs from 50 national textbooks
 - 🌲 **Section Leader** @ [Code in Place 2026](https://codeinplace.stanford.edu/), Stanford University
-- 🌏 **NUS Young Fellow 2026** — National University of Singapore
+- 🌏 **Incoming NUS Young Fellow 2026** — National University of Singapor 
 - 🏆 **Champion** @ Solvio AI Hackathon 2025 (650+ teams) with ZeroBin
 
-> *"Building AI that understands the world's underrepresented languages."*
+> *"AI/ ML is the best thing happended to Mankind"*
 
 ---
 
@@ -51,20 +51,29 @@ Abrar Eyasir, Tahsin Ahmed, Muhammad Ibrahim
 
 </td>
 </tr>
+
 <tr>
 <td width="80" align="center">
 
-**arXiv**<br>2025
+**arXiv**<br>2026
 
 </td>
 <td>
 
-**AgriPriceBD** *(forthcoming)*
+**[A Benchmark of Classical and Deep Learning Models for Agricultural Commodity Price Forecasting on A Novel Bangladeshi Market Price Dataset](https://arxiv.org/abs/2604.06227)**
 
-> Agricultural price forecasting for Bangladesh using time-series ML · LightGBM · Geospatial features
+Abrar Eyasir, et al. 
+
+> AgriPriceBD: 1,779 daily retail prices for five Bangladeshi commodities (July 2020 – June 2025), extracted
+from 800 government PDFs via an LLM-assisted digitization pipeline.
+
+[![Paper](https://img.shields.io/badge/arXiv-2603.05462-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.06227)
+[![PDF](https://img.shields.io/badge/PDF-Download-orange?style=flat-square)](https://arxiv.org/abs/2604.06227)
 
 </td>
 </tr>
+
+
 </table>
 
 ---
@@ -72,10 +81,10 @@ Abrar Eyasir, Tahsin Ahmed, Muhammad Ibrahim
 ## 🔭 Research Interests
 
 ```
-Large Language Models (LLMs)          →  Fine-tuning, PEFT/LoRA, Chain-of-Thought, RLHF/RLAIF
+Large Language Models (LLMs)          →  Fine-tuning, PEFT/LoRA, Chain-of-Thought, RLHF
 Low-Resource NLP                       →  Bengali/Bangla QA, dataset construction, benchmarking
-LLM Evaluation & Alignment            →  Empirical safety, robustness, factuality
-Multimodal AI                          →  Vision-Language Models, Gemini Vision, cross-modal reasoning
+LLM Evaluation & Alignment            →  Empirical safety, robustness
+Multimodal AI                          →  Vision-Language Models, cross-modal reasoning
 ```
 
 ---
@@ -92,45 +101,17 @@ Multimodal AI                          →  Vision-Language Models, Gemini Visio
 End-to-end AI system for smart city waste management:
 - **YOLOv8 + MobileNetV2** for real-time waste classification
 - **LSTM** bin fill-level forecasting · **LightGBM** e-waste pricing
-- **BanglaBERT** sentiment analysis (94.5% accuracy)
-- **Hyperledger Fabric** EcoCredits blockchain
+- sentiment analysis (94.5% accuracy)
 - FastAPI · Docker · Vercel deployment
 
 [![Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=flat-square)](https://frontend-solvio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-24292e?style=flat-square&logo=github)](https://github.com/eyasir2047/SOLVIO-Hackathon)
 
 </td>
-<td>
 
-### 🧠 [NCTB-QA Dataset](https://arxiv.org/abs/2603.05462)
-*Bangla Educational QA · arXiv 2026*
-
-Large-scale Bengali NLP resource:
-- **87,805 QA pairs** from 50 NCTB textbooks
-- Automated pipeline: extraction → segmentation → QA generation
-- Benchmarks: **BERT, RoBERTa, ELECTRA, Qwen-2.5-7B**
-- PEFT LoRA fine-tuning · Chain-of-Thought prompting
-- Metrics: BLEU · F1 · Exact Match
-
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat-square)](https://arxiv.org/abs/2603.05462)
-[![HuggingFace](https://img.shields.io/badge/🤗-Dataset-FFD21E?style=flat-square)](https://huggingface.co/eyasir2047)
-
-</td>
 </tr>
 <tr>
-<td>
 
-### ⚡ [Distributed ML System with MPI & OpenMP](https://github.com/eyasir2047/HPC-House-Price-Regression)
-*High-Performance Computing · C · MPI · OpenMP*
-
-- Synchronized gradient updates across **8 parallel processes**
-- OpenMP parallelized matrix multiplication
-- FastAPI backend + Next.js frontend for real-time inference
-- Low-latency distributed prediction pipeline
-
-[![GitHub](https://img.shields.io/badge/GitHub-Code-24292e?style=flat-square&logo=github)](https://github.com/eyasir2047/HPC-House-Price-Regression)
-
-</td>
 <td>
 
 ### 🎯 [Flash — Tutorial Recommendation Engine](https://github.com/eyasir2047/Flash-Fastest-Way-to-Learn)
@@ -184,7 +165,7 @@ Large-scale Bengali NLP resource:
 | Year | Honor |
 |------|-------|
 | 2026 | 🌲 **Section Leader** — Code in Place 2026, Stanford University |
-| 2026 | 🌏 **NUS Young Fellowship Programme** — National University of Singapore |
+| 2026 | 🌏 **Incoming NUS Young Fellowship Programme** — National University of Singapore |
 | 2025 | 🏆 **Champion** — Solvio AI Hackathon (650+ teams) |
 | 2025 | 🚀 **Top 20** — VisionX Project Showcasing, University of Dhaka |
 | 2025 | 🏅 **Top 10** — S.N. Bose National IT Hackathon |
@@ -214,7 +195,7 @@ Large-scale Bengali NLP resource:
 
 <div align="center">
 
-I'm actively seeking **PhD / Research positions** in **LLMs, NLP, and AI Safety**. Open to collaborations on low-resource language AI and Bengali NLP.
+I'm actively seeking **PhD / Research positions** in **LLMs, VLMs, NLP and AI Safety**. 
 
 [![Email](https://img.shields.io/badge/Email-eyasir2047@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyasir2047@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-eyasir2047.github.io-7c3aed?style=for-the-badge&logo=github-pages&logoColor=white)](https://eyasir2047.github.io/)
