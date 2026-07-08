@@ -17,7 +17,7 @@
 
 ## 🧑‍🔬 About Me
 
-I'm a final-year **CSE student at the University of Dhaka** specializing in **Large Language Models** and **Machine Learning**. My research interests are at the intersection of AI safety, Large Language Models (LLMs) and Multimodal Systems.
+I'm a **CSE graduate at the University of Dhaka** specializing in **Large Language Models** and **Machine Learning**. My research interests are at the intersection of AI safety, Large Language Models (LLMs) and Multimodal Systems.
 
 - 🔬 **Research Assistant** @ University of Dhaka under Dr. Muhammad Ibrahim
 - 📄 **arXiv Author** — NCTB-QA: 87,805 Bangla QA pairs from 50 national textbooks
