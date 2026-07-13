@@ -61,11 +61,11 @@ My work spans large language models, low-resource NLP, and multimodal learning, 
 - LSTM bin-fill forecasting, LightGBM e-waste pricing, YOLOv8 object detection
 - Bangla sentiment analysis for citizen complaints, deployed with FastAPI and Docker
 
-### ⚡ Flash — Fastest Way to Learn
+### ⚡ [Flash — Fastest Way to Learn](https://github.com/saged-sama/Flash---Fastest-Way-to-Learn)
 - Course recommendation system using cosine similarity and TF-IDF vectorization
 - Full information-retrieval pipeline from raw course content to ranked recommendations
 
-### 🔬 SynthLearn — Interactive Science Learning
+### 🔬 [SynthLearn — Interactive Science Learning](https://github.com/fatbomb/hackathontemplate)
 - Built SciBot, a Bangla-language AI chatbot with Google Cloud TTS and persistent chat history
 
 ## 📊 GitHub Stats
