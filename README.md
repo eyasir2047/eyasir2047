@@ -71,7 +71,7 @@ My work spans large language models, low-resource NLP, and multimodal learning, 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyasir2047&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyasir2047&theme=tokyonight&hide_border=true" height="165" />
 </p>
 </p>
 
