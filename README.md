@@ -74,8 +74,6 @@ My work spans large language models, low-resource NLP, and multimodal learning, 
   <img src="https://github-readme-stats.vercel.app/api?username=eyasir2047&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyasir2047&theme=tokyonight&hide_border=true" height="165" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir2047&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ## 🎯 Current Focus
